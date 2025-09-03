@@ -11,6 +11,7 @@ It lets you play animations on the cover screen while using the main one.
 The app monitors the fold state and will stop the animation when folded and restart it when unfolded.  
 
 This was only tested on the first gen Galaxy Fold (SM-F900).
+
 I DO NOT recommend trying it on another model as it can potentially break the display configuration file.
 If anyone has a newer Fold and wants to be a tester for a new version please hit me on Telegram @S7ruc7ureV01d
 
