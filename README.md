@@ -15,8 +15,8 @@ The app monitors the fold state and will stop the animation when folded and rest
 ### I only tested it on the first gen Galaxy Fold (SM-F900) with Android 12 stock OneUI ROM.
 It should work on a GSI ROM too but I haven't tested this yet.
 
-### I DO NOT recommend trying it on another model as it can potentially break the display configuration file.
-If anyone has a newer Fold and wants to be a tester for a new version please hit me on Telegram @S7ruc7ureV01d
+### I DO NOT recommend trying it on another Fold model as it can potentially break the display configuration file.
+If anyone has a newer Fold and wants to be a tester for the new version please hit me on Telegram @S7ruc7ureV01d
 
 ---
 
