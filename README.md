@@ -10,6 +10,8 @@ FoldAnim keeps the small outer display active even when the device is unfolded.
 It lets you play animations on the cover screen while using the main one.  
 The app monitors the fold state and will stop the animation when folded and restart it when unfolded.  
 
+---
+
 ### I only tested it on the first gen Galaxy Fold (SM-F900) with Android 12 stock OneUI ROM.
 It should work on a GSI ROM too but I haven't tested this yet.
 
@@ -27,7 +29,7 @@ If anyone has a newer Fold and wants to be a tester for a new version please hit
 
 ## Requirements
 - Root access  
-- First Gen Galaxy Fold (Sm-F900)  
+- First Gen Galaxy Fold (SM-F900)  
 
 ---
 
