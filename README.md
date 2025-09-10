@@ -1,4 +1,4 @@
-# 📱 FoldAnim
+# FoldAnim
 
 Play animations on the external screen of a Galaxy Fold while using the main screen.  
 **Root required**
@@ -42,8 +42,15 @@ If anyone has a newer Fold and wants to be a tester for the new version please h
 
 ---
 
+## Known issues
+1. You must set the FoldAnim's battery usage to unrestricted, otherwise it may be put to sleep
+2. Opening the app from recent apps instead of the launcher icon causes the animation to appear on the wrong screen
+3. If you click Clear All in recents FoldAnim will be closed and the animation will freeze. To prevent that tap the icon in the task switcher and select "Keep Open"
+
+---
+
 ## Disclaimer
-This app modifies system configuration files. Use at your own risk.  
+This app modifies system configuration files. Use FoldAnim at your own risk.  
 I’m not responsible for any damage or issues caused by using FoldAnim.
 
 ---
